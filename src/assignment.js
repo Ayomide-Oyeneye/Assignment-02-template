@@ -21,7 +21,7 @@ function sumOfNumbersTo(destination) {
   }
  return sum
 }
-console.log('The sum of the numbers from 1 to destination is =',sumOfNumbersTo(5))
+console.log('The sum of the numbers from 1 to destination is =',sumOfNumbersTo(5 ))
 
 
 assignment.sumOfNumbersTo = sumOfNumbersTo;
